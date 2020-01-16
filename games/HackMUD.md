@@ -24,3 +24,6 @@ a844z:39182
 supercalifragilisticexpialidocious
 ende.exe
 judgeme_nt
+
+`k3ymaster.crush_t1`
+`g4tekeeper.t1_index`
